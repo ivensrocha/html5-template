@@ -1,0 +1,18 @@
+Included:
+
+* LESS (lesscss.org)
+* 960 (960.gs)
+* jQuery 1.7.1 (jquery.com), using Google API Library (or loading locally if offline)
+* Mordernizr 2.5.3
+
+Also the index.html has already a 960 container with header, footer, left and right sidebars and main content (in the middle), which I use it more frequently.
+
+Everything was based using html5boilerplate by Paul Irish!
+
+***
+
+Feel free to use it.
+
+http://Ivens.pro
+
+
